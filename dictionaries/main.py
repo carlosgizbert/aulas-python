@@ -5,9 +5,7 @@ items = {
   "vindo" : 1
 }
 
-
 print('---------------')
-
 
 # percorre os items
 for elemento in items.items():
